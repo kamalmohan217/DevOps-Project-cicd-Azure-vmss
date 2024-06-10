@@ -31,3 +31,25 @@ After Deployment you can check the current image version from the console also a
 Finally Application has been accessed as shown in the screenshot attached below.
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-Azure-vmss/assets/128888356/9313127a-f158-4c00-97b1-635d5c9bdb4b)
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-Azure-vmss/assets/128888356/040ee247-7d10-459e-b4b9-3393a3fad707)
+
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+Source Code:-   https://github.com/kamalmohan217/aws-rds-java-azure-vmss.git
+```
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+Reference:-  https://ashok198510.hashnode.dev/cloud-native-two-tier-application-deployment-with-eks-tomcat-and-rds-in-aws
+             https://github.com/Ashoksana/aws-rds-java.git
+```
