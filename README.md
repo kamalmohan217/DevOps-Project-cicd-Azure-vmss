@@ -19,6 +19,8 @@ Finally different Release Image versions has been created and deployed to Azure 
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-Azure-vmss/assets/128888356/1956c998-f59e-4387-9243-830169911948)
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-Azure-vmss/assets/128888356/423f72a8-656f-49c8-a8f4-e81d00556c73)
 <br><br/>
+For Azure DevOps Agent I have used single-hosted agent on which I have installed Java 11, Maven and Packer.
+<br><br/>
 Multiple versions of Release Images will be present in Azure Compute Gallery. Screenshot of the same has been attached below.
 <br><br/>
 ![image](https://github.com/kamalmohan217/DevOps-Project-cicd-Azure-vmss/assets/128888356/b41d1995-bf2d-4b59-b85c-b60a4744b7ca)
